@@ -22,4 +22,35 @@
 
 .main-section {
     width: 50%;
+    line-height: 1;
 }
+
+.content h1 {
+    font-size: 55px;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    color: #fff;
+}
+
+.content p {
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-top: 25px;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.content .button {
+    margin-top: 25px;
+}
+
+.content .button a {
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #ff0000;
+    text-transform: uppercase;
+    /* margin-top: 25px; */
+    text-decoration: none;
+}
+
